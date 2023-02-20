@@ -97,9 +97,20 @@
           </a>
         </div>
         <p class="mt-8 text-base leading-6 text-gray-400 md:mt-0 md:order-1">
-          &copy; 2020 Whoever | Sponsored by
-          <a href="https://netlify.com" target="_blank">Netlify</a>
+          &copy; 2023 Sven Buschbeck
         </p>
+        <div>
+          Icons made by
+          <a
+            href="https://www.flaticon.com/authors/smashicons"
+            title="Smashicons"
+            >Smashicons</a
+          >
+          from
+          <a href="https://www.flaticon.com/" title="Flaticon"
+            >www.flaticon.com</a
+          >
+        </div>
       </div>
     </div>
   </footer>

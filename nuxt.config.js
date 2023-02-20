@@ -8,7 +8,7 @@ export default {
   env: {
     url:
       process.env.NODE_ENV === 'production'
-        ? process.env.URL || 'http://createADotEnvFileAndSetURL'
+        ? process.env.URL || 'https://svenbuschbeck.net'
         : 'http://localhost:3000',
     lang: 'en-US',
   },
@@ -58,5 +58,12 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
+    '@nuxt/image',
   ],
+
+  content: {
+    markdown: {
+      remarkPlugins: ['@ngsctt/remark-smartypants'],
+    },
+  },
 }

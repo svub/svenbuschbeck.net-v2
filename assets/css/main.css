@@ -1,0 +1,12 @@
+.prose code {
+  background: rgba(0, 0, 0, .075);
+  padding: .15em .25em;
+}
+
+.prose code::before {
+  content: "";
+}
+
+.prose code::after {
+  content: "";
+}

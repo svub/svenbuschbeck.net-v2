@@ -1,17 +1,22 @@
 <template>
   <div class="flex justify-center h-hero">
-    <img :src="image" class="object-cover w-screen" />
+    <nuxt-img
+      v-if="!!image"
+      :src="image"
+      class="object-cover w-full"
+      sizes="sm:100vw md:100vw lg:100vw xxl:100vw"
+    />
     <div class="absolute">
-      <div class="flex flex-col justify-center space-y-4 h-hero">
+      <div class="flex flex-col justify-center space-y-4 pb-20 h-hero">
         <h2
           v-if="heading"
-          class="px-4 text-2xl font-extrabold text-white bg-kaldi sm:text-3xl md:text-4xl"
+          class="px-4 text-2xl font-extrabold text-white bg-sbnet sm:text-3xl md:text-4xl"
         >
           {{ heading }}
         </h2>
         <h3
           v-if="subheading"
-          class="px-4 text-lg text-white bg-kaldi sm:text-xl md:text-2xl"
+          class="px-4 text-lg text-white bg-sbnet sm:text-xl md:text-2xl"
         >
           {{ subheading }}
         </h3>

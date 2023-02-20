@@ -4,9 +4,9 @@
   >
     <h1>Tags</h1>
     <ul>
-      <li v-for="(slugs, index) in tags" :key="index">
-        <nuxt-link :to="`/tags/${index}`">
-          {{ index }} ({{ slugs.length }})
+      <li v-for="tag in tags" :key="tag.label">
+        <nuxt-link :to="`/tags/${tag.label}`">
+          {{ tag.label }} ({{ tag.count }})
         </nuxt-link>
       </li>
     </ul>
@@ -18,14 +18,21 @@ export default {
   async asyncData({ $content }) {
     const posts = await $content('blog').fetch()
 
-    const tags = {}
+    const tagMap = {}
 
     posts.forEach(({ slug, tags: postTags }) => {
       postTags.forEach((tag) => {
-        if (typeof tags[tag] === 'undefined') tags[tag] = []
-        tags[tag].push(slug)
+        const index = tag.toLowerCase()
+        if (typeof tagMap[index] === 'undefined')
+          tagMap[index] = {
+            label: tag,
+            count: 0,
+          }
+        tagMap[index].count++
       })
     })
+
+    const tags = Object.values(tagMap).sort((a, b) => b.count - a.count)
 
     return {
       tags,

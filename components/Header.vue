@@ -41,12 +41,12 @@
           class="hidden md:flex-1 md:flex md:items-center md:justify-between md:space-x-12"
         >
           <nav class="flex space-x-10">
-            <nuxt-link
-              to="/about"
-              class="text-base font-medium leading-6 text-gray-500 transition duration-150 ease-in-out hover:text-gray-900 focus:outline-none focus:text-gray-900"
-            >
-              About
-            </nuxt-link>
+            <!-- <nuxt-link
+                to="/about"
+                class="text-base font-medium leading-6 text-gray-500 transition duration-150 ease-in-out hover:text-gray-900 focus:outline-none focus:text-gray-900"
+              >
+                About
+              </nuxt-link> -->
             <nuxt-link
               to="/blog"
               class="text-base font-medium leading-6 text-gray-500 transition duration-150 ease-in-out hover:text-gray-900 focus:outline-none focus:text-gray-900"
@@ -110,13 +110,13 @@
             </div>
             <div class="px-5 py-6 space-y-6">
               <div class="grid grid-cols-2 gap-4">
-                <nuxt-link
-                  to="/about"
-                  class="text-base font-medium leading-6 text-gray-900 transition duration-150 ease-in-out hover:text-gray-700"
-                  @click.native="toggleMenu"
-                >
-                  About
-                </nuxt-link>
+                <!-- <nuxt-link
+                    to="/about"
+                    class="text-base font-medium leading-6 text-gray-900 transition duration-150 ease-in-out hover:text-gray-700"
+                    @click.native="toggleMenu"
+                  >
+                    About
+                  </nuxt-link> -->
                 <nuxt-link
                   to="/blog"
                   class="text-base font-medium leading-6 text-gray-900 transition duration-150 ease-in-out hover:text-gray-700"

@@ -1,17 +1,8 @@
 ---
-title: About our values
+title: Web native
+image: /img/index-header.jpg
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+## The Story
+I still remember that massive book my brother gave for my twelve's birthday. Back when going online involved a modem and Netscape Communicator. Thanks to the book and some funny ideas in my head as motivation, I learned JavaScript, HTML and CSS to create my first interactive websites in the mid 90s. That was the initial spark that has lead to studying computer science with a mix of graphic design and usability engineering. While hacking away on uni assignments and little open source side projects, I started working on designing and building a CMS for a small web agency to pay my bills. Being curious about living and working abroad, I then took a junior researcher position at the [University of Trento](unitn.it/en) in Italy in 2007. After two years, I changed to work as research engineer at the [German Research Center for Artificial Intelligence](https://dfki.de/en/web) in Germany. I learned a lot during that time but also realized that I'm not a 9-5er office person. Thus, in 2013, I started working as a freelance web technology consultant &amp; developer and gathered experience in marketing, technical writing, and communications. And just before the bull market was in full swing, I started my deep dive into crypto and at its peak in 2017, I joined the [Nimiq Project](https://nimiq.com) as full time contractor. 
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
-
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
-
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+I can say that throughout my career, I've experienced a wide range of projects, teams, frameworks, and  management approaches. I worked with privately held companies, universities, research centers, start-ups, as well as NGOs/NPOs. I learned that it's key to work for what you believe in and that the working culture is at least as important as the software stack. While moving through projects, I also moved through countries and continents and became an avid traveler with a love for refreshing my synapses by immersing into new cultures and ideas. So, during the years I lived in Germany, Italy, Greece, Australia, Taiwan, and Costa Rica and understood what a beautiful and colorful place our little planet is. It's at the core of my personality to seek for harmony within myself, with friends, colleagues, and nature as a whole.

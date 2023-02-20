@@ -48,12 +48,6 @@
               About
             </nuxt-link>
             <nuxt-link
-              to="/products"
-              class="text-base font-medium leading-6 text-gray-500 transition duration-150 ease-in-out hover:text-gray-900 focus:outline-none focus:text-gray-900"
-            >
-              Products
-            </nuxt-link>
-            <nuxt-link
               to="/blog"
               class="text-base font-medium leading-6 text-gray-500 transition duration-150 ease-in-out hover:text-gray-900 focus:outline-none focus:text-gray-900"
             >
@@ -87,11 +81,7 @@
             <div class="px-5 pt-5 pb-6 space-y-6">
               <div class="flex items-center justify-between">
                 <nuxt-link to="/" @click.native="toggleMenu">
-                  <img
-                    class="h-5"
-                    src="/assets/images/logo.svg"
-                    alt="Workflow"
-                  />
+                  Sven Buschbeck
                 </nuxt-link>
                 <div class="-mr-2">
                   <button
@@ -126,13 +116,6 @@
                   @click.native="toggleMenu"
                 >
                   About
-                </nuxt-link>
-                <nuxt-link
-                  to="/products"
-                  class="text-base font-medium leading-6 text-gray-900 transition duration-150 ease-in-out hover:text-gray-700"
-                  @click.native="toggleMenu"
-                >
-                  Products
                 </nuxt-link>
                 <nuxt-link
                   to="/blog"

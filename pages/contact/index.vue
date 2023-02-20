@@ -46,7 +46,7 @@
         <button class="px-6 py-1 border border-gray-200 rounded" type="reset">
           Cancel
         </button>
-        <button class="px-6 py-1 text-white rounded bg-kaldi" type="submit">
+        <button class="px-6 py-1 text-white rounded bg-sbnet" type="submit">
           Send
         </button>
       </div>

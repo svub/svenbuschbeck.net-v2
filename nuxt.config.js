@@ -73,4 +73,7 @@ export default {
       remarkPlugins: ['@ngsctt/remark-smartypants'],
     },
   },
+
+  app: { // for @nuxt/image to work
+  }
 }

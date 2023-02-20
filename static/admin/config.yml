@@ -27,8 +27,10 @@ collections:
     preview_path: '{{dirname}}/{{slug}}'
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Image', name: image, widget: image }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Tags', name: 'tags', widget: 'list', min: 1, default: ['web'] }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
   - name: 'pages'

@@ -10,14 +10,15 @@ tags:
 ---
 # Excellent stock footage for your next web project
 
-Excellent quality: [Pexels](https://www.pexels.com/ "Pexels"), [Life of Pix](http://www.lifeofpix.com/ "Life of Pix"), [Stocksnap.io](https://stocksnap.io/ "stocksnap.io/"), [Unsplash](https://unsplash.com/ "Unsplash"),\
-[Gratisography](http://gratisography.com/ "Gratisography website") (by [Ryan McGuire](http://www.laughandpee.com/ "Personal home page")).
+Excellent quality: [Pexels](https://www.pexels.com/ "Pexels"), [Life of Pix](http://www.lifeofpix.com/ "Life of Pix"), [Stocksnap.io](https://stocksnap.io/ "stocksnap.io/"), [Unsplash](https://unsplash.com/ "Unsplash"),
+[Gratisography](http://gratisography.com/ "Gratisography website") (by [Ryan McGuire](http://www.laughandpee.com/ "Personal home page of Ryan McGuire")).
 
 Good quality: [Cupcake](http://cupcake.nilssonlee.se/ "Cupcake").
 
-Good, but...\
-A bit complicated to browse: [Negative Space](http://negativespace.co/ "Negative Space"), Great shots food, but the licensing is not exactly clear: [Foodies Feed](https://foodiesfeed.com/ "Foodies Feed").
+Good, but... a bit complicated to browse: [Negative Space](http://negativespace.co/ "Negative Space").
 
-They are all free to use via the Creative Commons Zero license (aka CC0). Even for commercial projects. That means attrivution is not required, so you can place the attribution where it makes sense and doesn't mess with the layout and design. Great stuff -- truely free! 🙂
+Great shots food, but the licensing is not exactly clear: [Foodies Feed](https://foodiesfeed.com/ "Foodies Feed").
+
+They are all free to use via the Creative Commons Zero license (aka CC0). Even for commercial projects. That means attribution is not required, so you can place the attribution where it makes sense and doesn't mess with your website's layout and design. Great stuff -- truly free! 🙂
 
 Sources: [Slideshare blog](https://blog.slideshare.net/2015/09/28/7-sites-for-free-and-beautiful-stock-photos "Slideshare blog") and others.

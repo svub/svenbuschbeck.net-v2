@@ -10,7 +10,7 @@ intro:
 skills:
   - title: Crypto
     text:
-      I entered the crypto space in 2017 and joined the <a href="https://nimiq.com" target="_blank">Nimiq</a> project the same year. I contributed to front-end work and content creation until mid-2022. I'm excited about the unlocking the potential of crypto for the society at large, advancing L1 and L2 technologies, as well as improving usability and privacy, and pushing for wider adoption.
+      I entered the crypto space in 2017 and joined the <a href="https://nimiq.com" target="_blank">Nimiq</a> project the same year. I contributed to front-end work (e.g. <a href="https://fastspot.io/ target="_blank">fastspot.io</a>, <a href="https://www.nimiq.com/staking-calculator/" target="_blank">staking calculator</a>) and content creation until mid-2022. I'm excited about the unlocking the potential of crypto for the society at large, advancing L1 and L2 technologies, as well as improving usability and privacy, and pushing for wider adoption.
     image: index-crypto.jpg
   - title: Web
     text: >

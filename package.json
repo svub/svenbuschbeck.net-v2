@@ -1,8 +1,8 @@
 {
-  "name": "nuxt-starter-netlify-cms",
+  "name": "svenbuschbeck-net",
   "version": "1.0.1",
-  "description": "Example Nuxt, and Netlify CMS project",
-  "author": "Luke Oliff <luke@lukeoliff.com> (https://twitter.com/lukeocodes)",
+  "description": "The website hosted at svenbuschbeck.net.",
+  "author": "Sven Buschbeck <me@svenbuschbeck.net> (https://svenbuschbeck.net)",
   "private": true,
   "scripts": {
     "dev": "nuxt",
@@ -53,10 +53,6 @@
     "retext-usage": "^0.5.0",
     "unified": "^9.2.0"
   },
-  "keywords": [
-    "nuxt",
-    "vue",
-    "netlify-cms"
-  ],
+  "keywords": [],
   "license": "MIT"
 }

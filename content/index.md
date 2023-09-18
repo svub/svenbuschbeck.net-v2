@@ -9,12 +9,12 @@ intro:
     Hi! I'm Sven, I work as web technology consultant, full-stack dev, (technical) writer, and crypto evangelist. I love applied technologies and believe in the power Open Source.
 skills:
   - title: Crypto
-    text:
-      I entered the crypto space in 2017 and joined the <a href="https://nimiq.com" target="_blank">Nimiq</a> project the same year. I contributed to front-end work (e.g. <a href="https://fastspot.io/ target="_blank">fastspot.io</a>, <a href="https://www.nimiq.com/staking-calculator/" target="_blank">staking calculator</a>) and content creation until mid-2022. I'm excited about the unlocking the potential of crypto for the society at large, advancing L1 and L2 technologies, as well as improving usability and privacy, and pushing for wider adoption.
+    text: >
+      I've entered the crypto space in 2017 and joined the <a href="https://nimiq.com" target="_blank">Nimiq</a> project the same year. I was working on front-end parts (e.g. <a href="https://fastspot.io/ target="_blank">fastspot.io</a>, <a href="https://www.nimiq.com/staking-calculator/" target="_blank">staking calculator</a>) and content creation until mid-2022. During these years I've seen the good and bad of crypto. But still, I can see big potential it has in bringing our society forward (private transacitons, sound money, DAOs, implications of immutability and trustlessness). And the tech (L1 and L2, ZKPs, side chains, encryption, ...) is just really fascinating. The challenge simply is: Let's make the useful usable!
     image: index-crypto.jpg
   - title: Web
     text: >
-      I've used so many frameworks, languages, and meta-languages over the years that I feel at home with them all. What matters is the usability of the user interface and the clarity and extensibility of the code infrastructure. Lately I've been using Vue.js with Typescript, HTML/Pug, Sass/Stylus, and Ionic mostly.
+      The web is a living thing, it's changing all the time. Over the years, I've used  many frameworks, languages, and meta-languages. I've basically grown up with web-development and feel at home on the web. The foundation for each project is a good idea and a powerful framework in combination with top usability/UX and clear/extensible code and infrastructure. I'm a big fan of Vue.js with Typescript, HTML/Pug, Sass/Stylus. I'm more and more dabbling my feet in Web3, bringing crypto and the web together.
     image: index-web.jpg
   - title: Content
     text: >

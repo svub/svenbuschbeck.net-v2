@@ -1,6 +1,6 @@
 ---
 title: "Make the BSON return UInt8Arrays"
-date: 2015-06-15T13:36:14Z
+date: 2023-09-14T13:36:14Z
 description: "BSON is a great tool to serialize anything in Javascript. Including binary stuff. But why does it return a Binary when deserializing what was originally a UInt8Array. And what to do about it?"
 image: blog-bison.jpg
 tags:

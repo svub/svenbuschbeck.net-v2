@@ -1,6 +1,6 @@
 ---
 title: "Rotki from source"
-date: 2015-06-15T13:36:14Z
+date: 2023-02-27T13:36:14Z
 description: "FYI, Rotki is a private portfolio tracker and accounting tool. Building Rotki from source using their official guide, I run into a few small issues and this is my write-up on how to solve them."
 image: blog-error.jpg
 tags:

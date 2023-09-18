@@ -23,13 +23,13 @@ someNode.innerText =
   !`;
 ```
 
-Expecting the content of `someNode` to have three lines, maybe with line breaks in the code,
-but to render as simple text in one line - ignoring line breaks as usual.
+I would expect the `nodeValue` of `someNode` to have three lines, with line breaks and to be rendered as simple text in one line - ignoring line breaks as usual.
 
 [But wait, try it!](https://jsfiddle.net/svub/zanLt037/3/)
 
-Turns out, line breaks get converted to `<br>`!
-Very unexpected... and IMO very wrong!
+Turns out, line breaks get converted into `<br>` tags!
+Pretty weird and unexpected. The naming `innerText` is certainly misleading as it creates DOM elements.
+
 But `textContent` to the rescue!
 It behaves as expected: Line breaks? Yes. `<br>` tags? No!
 Another reason for `textContent`.

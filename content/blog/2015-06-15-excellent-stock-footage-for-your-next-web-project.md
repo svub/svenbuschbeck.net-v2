@@ -1,5 +1,5 @@
 ---
-title: "Excellent stock footage."
+title: "Excellent stock footage!"
 date: 2015-06-15T13:36:14Z
 description: "There is a lot of great stuff out there. And some gems offer great photos and videos and are very flexible if and where you put the attribution so that it doesn't harm you layouts."
 image: blog-stock-photos.jpg

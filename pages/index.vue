@@ -11,7 +11,7 @@
       <h2>
         {{ page.title }}
       </h2>
-      <div class="flex items-center space-x-6">
+      <div class="flex space-x-6">
         <img
           class="block mx-auto h-24 w-24 rounded-full sm:mx-0 sm:shrink-0"
           :src="page.intro.image"

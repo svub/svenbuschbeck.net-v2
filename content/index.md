@@ -6,7 +6,7 @@ subheading: Web Technology, Project Management, Writing
 intro:
   image: /img/me.jpg
   text: >
-    Hi fellow traveler! I'm Sven, I support projects as a web technology consultant, project manager, full-stack developer, and (technical) writer -- worldwide, remote and on-sight. I love applied technologies, believe in the power of Open Source, and have a passion for photography, writing and communication, nature and traveling.
+    Hi fellow traveler! I'm Sven, I support projects as a web technology consultant, project manager, full-stack developer, and (technical) writer -- worldwide, remote and on-sight. I love applied technologies, believe in the power of Open Source, and have a passion for photography and writing, planning, bookkeeping, and communication, nature and traveling.
 skills:
   - title: Web
     text: >

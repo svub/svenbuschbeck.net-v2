@@ -1,5 +1,6 @@
 /content/blog/todo*
 *.bak.*
+*.ignore*
 
 # Created by .ignore support plugin (hsz.mobi)
 ### Node template

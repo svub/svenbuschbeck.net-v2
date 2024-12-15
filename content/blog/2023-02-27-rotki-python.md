@@ -1,7 +1,7 @@
 ---
 title: "Rotki from source"
 date: 2023-02-27T13:36:14Z
-description: "FYI, Rotki is a private portfolio tracker and accounting tool. Building Rotki from source using their official guide, I run into a few small issues and this is my write-up on how to solve them."
+description: "FYI, Rotki is a private portfolio tracker and accounting tool. Building Rotki from source using their official guide, I ran into a few small issues and this is my write-up on how to solve them."
 image: blog-error.jpg
 tags:
   - python
@@ -44,7 +44,7 @@ SQL Cipher amalgamation not found. Please download or build the
           amalgamation folder: sqlite3.h, sqlite3.c
 ```
 
-Searching for that got me [this good StackOverflow answer](https://stackoverflow.com/a/58426024/548955) recommending that SQLCipher dev files are missing. Tried that, didn't work. Taking a break and recharging with a big cup of coffee... and then looking back at what I did or rather what I did differently, I noticed Python 3.9 in the docs vs Python 3.10 which I used. No way this can be causing it, right? I was desperate enough to try it out. And guess what?!? Yes! Unbelievable IMO but here we go:
+Searching for that got me [this good StackOverflow answer](https://stackoverflow.com/a/58426024/548955) recommending that SQLCipher dev files are missing. Tried that, didn't work. Taking a break and recharging with a big cup of coffee ... and then looking back at what I did or rather what I did differently, I noticed Python 3.9 in the docs vs Python 3.10 which I used. No way this can be causing it, right? I was desperate enough to try it out. And guess what?!? Yes! Unbelievable IMO, but here we go:
 ![Rotki running locally in dev mode](../../static/img/blog-rotki-dev-mode.jpg)
 
 Almost perfect... you can see following message in the screenshot:
@@ -54,5 +54,5 @@ rotki 3:50:34 PM [main] Vue Devtools failed to install: TypeError: devTools.defa
 
 And it was smooth sailing from then on.
 
-Okay almost. To work on the front-ends which are written in Vue.js, Vue Devtools are essential. Though the docs show how to run the front-end in the browser, where you can install devtools easily, it would be nice to have it running in the Electron window where it will also run in production. 
+Okay almost. To work on the front-ends which are written in Vue.js, Vue Devtools are essential. Though the docs show how to run the front-end in the browser, where you can install Devtools easily, it would be nice to have it running in the Electron window where it will also run in production. 
 
